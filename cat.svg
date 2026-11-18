@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="240" viewBox="0 0 280 240" role="img" aria-labelledby="title desc">
+  <title id="title">cari's animated cat</title>
+  <desc id="desc">A lavender cat gently bobs, blinks and waves its tail.</desc>
+  <ellipse cx="140" cy="215" rx="64" ry="7" fill="#a78bfa" opacity=".15"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-8 175 178;12 175 178;-8 175 178" dur="2.4s" repeatCount="indefinite"/>
+      <path d="M174 180 Q228 185 220 139 Q216 122 205 131" fill="none" stroke="#a78bfa" stroke-width="17" stroke-linecap="round"/>
+    </g>
+    <path d="M111 137 Q96 164 101 201 Q113 215 140 208 Q168 215 180 201 Q184 164 168 137Z" fill="#242239" stroke="#a78bfa" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M112 182 L111 205 M166 182 L167 205" fill="none" stroke="#a78bfa" stroke-width="4" stroke-linecap="round"/>
+    <path d="M88 91 L89 45 L119 65 Q140 57 161 65 L192 45 L191 94 Q205 143 141 148 Q77 144 88 91Z" fill="#242239" stroke="#a78bfa" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M98 60 L99 83 L112 72 M181 60 L180 83 L167 72" fill="#f9a8d4" opacity=".8"/>
+    <g fill="#e9d5ff">
+      <ellipse cx="116" cy="103" rx="5" ry="7">
+        <animate attributeName="ry" values="7;7;1;7;7" keyTimes="0;.44;.47;.50;1" dur="4.8s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="165" cy="103" rx="5" ry="7">
+        <animate attributeName="ry" values="7;7;1;7;7" keyTimes="0;.44;.47;.50;1" dur="4.8s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <path d="M136 113 L145 113 L140.5 118Z" fill="#f9a8d4"/>
+    <path d="M140.5 118 Q136 127 131 121 M140.5 118 Q145 127 150 121" fill="none" stroke="#e9d5ff" stroke-width="2.5" stroke-linecap="round"/>
+    <g stroke="#a78bfa" stroke-width="2" stroke-linecap="round" opacity=".7">
+      <path d="M101 115 L76 111 M101 122 L78 126 M179 115 L204 111 M179 122 L202 126"/>
+    </g>
+  </g>
+</svg>

@@ -9,10 +9,6 @@
 </p>
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="JavaScript and TypeScript" />
-
-<br>
 <br>
 
 [Blog ↗](https://cvri.tistory.com/) &nbsp; · &nbsp; [Projects ↗](https://github.com/cari-0?tab=repositories)

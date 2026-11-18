@@ -10,6 +10,6 @@
 
 <br>
 
-[Blog ↗](https://cvri.tistory.com/) &nbsp; · &nbsp; [Projects ↗](https://github.com/cari-0?tab=repositories)
+[Blog ↗](https://cvri.tistory.com/) &nbsp; · &nbsp; [Email ↗](mailto:cariforyoux@gmail.com)
 
 </div>

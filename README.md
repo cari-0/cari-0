@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=65&lines=Hello%2C+I'm+cari-0.;Turning+ideas+into+code.;Always+learning.+Always+building." alt="Animated introduction" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=65&lines=Hello%2C+I'm+cari-0.;Turning+ideas+into+code.;Always+learning.+Always+building." alt="Animated introduction" />
+</p>
 
-<img src="./cat.svg" width="220" alt="꼬리를 흔들고 눈을 깜빡이는 고양이" />
-
-<br>
+<p>
+  <img src="./cat.svg" width="180" alt="움직이는 고양이" />
+</p>
 
 **작은 아이디어를 코드로 만듭니다.**
 

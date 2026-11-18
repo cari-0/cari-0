@@ -1,32 +1,25 @@
-<div align="center">
+```console
+cari-0@github:~$ whoami
 
-# Hey, I'm cari 👋
+  새로운 것을 배우고,
+  떠오른 아이디어를 직접 만들어 보는 사람.
 
-만들고, 배우고, 조금씩 더 나아갑니다.
+cari-0@github:~$ cat interests.txt
 
-[![GitHub](https://img.shields.io/badge/cari--0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cari-0)
+  작은 아이디어를 실제로 구현하기
+  반복되는 일을 더 편하게 바꾸기
+  하나씩 배우고 기록하기
 
-</div>
+cari-0@github:~$ cat status.txt
 
-<br>
+  배우는 중. 만드는 중. 업데이트 중.
 
-### 👩‍💻 About me
+cari-0@github:~$ _
+```
 
-새로운 아이디어를 직접 만들어 보는 걸 좋아합니다.  
-이곳에 프로젝트와 배운 것들을 차근차근 기록합니다.
+<details>
+<summary>숨겨진 한 줄</summary>
 
-<br>
+완벽하게 시작하기보다, 일단 만들고 고치기.
 
-### 🌱 Currently
-
-- 새로운 기술 배우기
-- 작은 아이디어를 프로젝트로 만들기
-- 어제보다 읽기 좋은 코드 작성하기
-
-<br>
-
----
-
-<div align="center">
-  <sub>Small steps, steady progress.</sub>
-</div>
+</details>
